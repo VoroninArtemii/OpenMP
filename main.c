@@ -35,5 +35,6 @@ int main(int argc, char** argv){
 		printf("Time for %d processors: %lf\n", threads[j], end - start);
 	}
 	printf("Found occurence of %d at index %d;\n", target, index);
+	free(array);
 	return 0;
 }
