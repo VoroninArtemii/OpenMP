@@ -1,6 +1,6 @@
 # Description
 
-Implementation of the algorithm for searching for an element in an array using OpenMP.
+Implementation of the algorithm for searching for an element in a random array using OpenMP.
 
 ## Data for practical and theoretical research
 
